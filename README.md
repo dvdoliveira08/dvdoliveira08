@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando atualmente como vendedor
 - 📚 Cursando faculdade de Sistemas para Internet na Fatec São Roque  
-- 🌱 Estudando HTML 5, CSS, Javascript e CSS
+- 🌱 Estudando HTML 5, CSS, Javascript e PHP!
 - 📫 Contate-me no e-mail: deivide_l4d@hotmail.com
 
 <h2 align="left">Stats</h2>

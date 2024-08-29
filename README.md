@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, sou o Deivide Oliveira 👋
 
-<!--
-**dvdoliveira08/dvdoliveira08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou trabalhando atualmente como vendedor
+- 📚 Cursando faculdade de Sistemas para Internet na Fatec São Roque  
+- 🌱 Estudando HTML 5, CSS, Javascript e CSS
+- 📫 Contate-me no e-mail: deivide_l4d@hotmail.com
 
-Here are some ideas to get you started:
+<h2 align="left">Stats</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dvdoliveira08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dvdoliveira08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvdoliveira08&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
